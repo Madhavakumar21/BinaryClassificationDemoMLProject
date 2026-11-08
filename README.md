@@ -116,4 +116,4 @@ The project includes an interactive Streamlit application with the following fea
 
 The application loads previously trained and saved models. It does not retrain models using the uploaded test dataset.
 
-**Live Application:** [TODO: Need to attach StreamLit Deployed Link here]
+**Live Application:** [StreamLit Deployment Link](https://binaryclassificationdemomlproject.streamlit.app/)
